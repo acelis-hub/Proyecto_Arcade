@@ -1,0 +1,6 @@
+Compras
+- Raspberry pi 3
+- fuente y accesorios
+- controles
+Software a Instalar
+- RetroPi
